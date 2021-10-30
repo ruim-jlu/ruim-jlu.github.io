@@ -2,7 +2,7 @@
   // ns-params:@params
   var slides = { highlight_style: "dracula", theme: "black" };
 
-  // ns-hugo:E:\Projects\ruim-jlu-site\themes\wowchemy-hugo-themes\wowchemy\assets\js\wowchemy-utils.js
+  // ns-hugo:C:\Rui\JLU\ruim-jlu-site\themes\wowchemy-hugo-themes\wowchemy\assets\js\wowchemy-utils.js
   function fixMermaid(render = false) {
     let mermaids = [];
     [].push.apply(mermaids, document.getElementsByClassName("language-mermaid"));
