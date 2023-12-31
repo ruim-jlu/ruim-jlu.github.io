@@ -5,12 +5,81 @@
     <link>https://ruim-jlu.github.io/publication-type/1/</link>
       <atom:link href="https://ruim-jlu.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Content Rights Reserved © Rui Ma. *Last Updated June 2022.* </copyright><lastBuildDate>Tue, 21 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Content Rights Reserved © Rui Ma. *Last Updated Dec 2023.* </copyright><lastBuildDate>Sat, 09 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ruim-jlu.github.io/media/icon_hua9e677ae8f34d19200c421172848c61c_32852_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://ruim-jlu.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>B-Spine: Learning B-Spline Curve Representation for Robust and Interpretable Spinal Curvature Estimation</title>
+      <link>https://ruim-jlu.github.io/publication/2024_aaai_wang/</link>
+      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://ruim-jlu.github.io/publication/2024_aaai_wang/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EPSD: Early Pruning with Self-Distillation for Efficient Model Compression</title>
+      <link>https://ruim-jlu.github.io/publication/2024_aaai_chen/</link>
+      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://ruim-jlu.github.io/publication/2024_aaai_chen/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>P2M2-Net: Part-Aware Prompt-Guided Multimodal Point Cloud Completion</title>
+      <link>https://ruim-jlu.github.io/publication/2023_cadg_jiang/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://ruim-jlu.github.io/publication/2023_cadg_jiang/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>MXM-CLR: A Unified Framework for Contrastive Learning of Multifold Cross-Modal Representations</title>
