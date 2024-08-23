@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ruim-jlu.github.io/publication/2024_pg_rqliu/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ruim-jlu.github.io/publication/2024_pg_jcliu/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ruim-jlu.github.io/publication/2024_eccv_zheng/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -41,6 +47,9 @@
     <loc>https://ruim-jlu.github.io/publication/2014_sig_alhashim/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ruim-jlu.github.io/publication/2024_sig_zhao/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ruim-jlu.github.io/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
@@ -51,16 +60,16 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ruim-jlu.github.io/publication-type/1/</loc>
-    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ruim-jlu.github.io/publication_types/</loc>
-    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ruim-jlu.github.io/publication/</loc>
-    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ruim-jlu.github.io/publication-type/2/</loc>
-    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ruim-jlu.github.io/publication_types/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ruim-jlu.github.io/publication/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ruim-jlu.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
