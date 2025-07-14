@@ -5,12 +5,35 @@
     <link>https://ruim-jlu.github.io/</link>
       <atom:link href="https://ruim-jlu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rui Ma</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Content Rights Reserved © Rui Ma. Last Update Feb 2025. </copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Content Rights Reserved © Rui Ma. Last Update July 2025. </copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ruim-jlu.github.io/media/icon_hua9e677ae8f34d19200c421172848c61c_32852_512x512_fill_lanczos_center_3.png</url>
       <title>Rui Ma</title>
       <link>https://ruim-jlu.github.io/</link>
     </image>
+    
+    <item>
+      <title>Rethinking Discrete Tokens: Treating Them as Conditions for Continuous Autoregressive Image Synthesis</title>
+      <link>https://ruim-jlu.github.io/publication/2025_iccv_zheng/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruim-jlu.github.io/publication/2025_iccv_zheng/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>BOOTPLACE: Bootstrapped Object Placement with Detection Transformers</title>
